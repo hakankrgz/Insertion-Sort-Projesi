@@ -1,8 +1,5 @@
 # Insertion-Sort-Projesi
 Insertion Sort Project given by patika.dev in Data Structures and Algorithms section
-
-Ödev Sayfası
-
 [22,27,16,2,18,6] dizisinin insertion sort türüne göre aşamaları:
 
 [2, 27, 16, 22, 18, 6]
